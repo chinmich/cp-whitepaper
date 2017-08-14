@@ -3,7 +3,6 @@ title: CP and FiD Roadmap
 tags: whitepaper-section
 order: 13
 headings:
-  - CP and FiD Roadmap
 date: 2017-08-14 15:44:34
 ---
 
@@ -115,4 +114,3 @@ Version 3 released to public. This includes a general purpose Dapp browser for m
 Detailed documentation on using CP including UCAC examples, deployment guide and basic solidity guide.  15 fully functional UCACs. </td>
   </tr>
 </table>
-

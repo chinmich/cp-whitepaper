@@ -3,7 +3,6 @@ title: Friend in Debt Market Opportunity
 tags: whitepaper-section
 order: 9
 headings:
-  - Friend in Debt Market Opportunity
   - Democratizing the Role of a Lender
   - Banking the Unbanked
 date: 2017-08-14 15:44:38

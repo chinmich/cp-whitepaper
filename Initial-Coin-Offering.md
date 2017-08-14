@@ -3,7 +3,6 @@ title: Initial Coin Offering
 tags: whitepaper-section
 order: 11
 headings:
-  - Initial Coin Offering
   - Pre ICO Period 50 Token Bonus
   - ICO Bonus Tiers
   - Developers Token Pool

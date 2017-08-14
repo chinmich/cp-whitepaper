@@ -3,7 +3,6 @@ title: Credit Protocol Usage Examples
 tags: whitepaper-section
 order: 3
 headings:
-  - Credit Protocol Usage Examples
   - University Meal Vouchers
   - Microfinancing
   - Retail Gift Cards

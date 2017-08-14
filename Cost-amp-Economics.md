@@ -3,7 +3,6 @@ title: Cost & Economics
 tags: whitepaper-section
 order: 6
 headings:
-  - Cost & Economics
   - Plasma and Off Chain Transactions
   - UCACs Transaction Costs and Monopolies
   - Transaction Capacity Setting

@@ -3,7 +3,6 @@ title: FiD Technical
 tags: whitepaper-section
 order: 10
 headings:
-  - FiD Technical
   - Credit Protocol Smart Contracts
   - Friend in Debt Use Case Authority Contract
   - Market Handler

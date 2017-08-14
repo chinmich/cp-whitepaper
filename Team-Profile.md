@@ -3,7 +3,6 @@ title: Team Profile
 tags: whitepaper-section
 order: 16
 headings:
-  - Team Profile
   - Timothy Galebach Co Founder
   - Jared Bowie Co Founder
   - Michael Chin Co Founder

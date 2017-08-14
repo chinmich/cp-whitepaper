@@ -3,7 +3,6 @@ title: Introduction & Features
 tags: whitepaper-section
 order: 2
 headings:
-  - Introduction & Features
   - The Credit Protocol
   - Use Case Authority Contracts
   - Bounty Program for UCACs
@@ -19,7 +18,7 @@ date: 2017-08-14 15:44:45
 
 There are three ways to consider a new Ethereum-based protocol: the value it creates for a user, the value it creates for a developer, and the value it creates for the community. At Blockmason, we are dedicated not only to building useful, functional applications and protocols that solve real-world problems, but also to developing platforms that inspire adoption of the Ethereum network and expand global access to cryptocurrency.
 
-That is why we are so excited to announce the development of our newest product: *The Credit Protocol *(CP).
+That is why we are so excited to announce the development of our newest product: __The Credit Protocol__ (CP).
 
 Until now, it was only possible to move money on the blockchain in the form of cash. Bitcoin democratized the transfer and storage of money, and Ethereum democratized the creation and storage of monetary contracts. With the Credit Protocol, BlockMason has taken the next logical step in the decentralized economy: democratizing the creation of credit. Debt and credit are already extremely powerful financial tools, and now they will be strengthened by the security and flexibility of the blockchain. In fact, because an individual need not own ether in order to draw debt in ether, it is entirely possible to imagine a future in which debts and credits recorded on the Credit Protocol could exceed the total market capitalization of all cryptocurrencies combined, dramatically increasing the scale of the digital economy.
 

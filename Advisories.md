@@ -3,7 +3,6 @@ title: Advisories
 tags: whitepaper-section
 order: 18
 headings:
-  - Advisories
 date: 2017-08-14 15:44:29
 ---
 

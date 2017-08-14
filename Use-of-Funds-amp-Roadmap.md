@@ -3,7 +3,6 @@ title: Use of Funds & Roadmap
 tags: whitepaper-section
 order: 12
 headings:
-  - Use of Funds & Roadmap
 date: 2017-08-14 15:44:35
 ---
 

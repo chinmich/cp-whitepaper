@@ -3,7 +3,6 @@ title: CP Technical
 tags: whitepaper-section
 order: 5
 headings:
-  - CP Technical
   - Foundation Technical
   - Credit Protocol Data Smart Contract
   - Credit Protocol Smart Contract

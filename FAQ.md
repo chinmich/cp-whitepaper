@@ -3,7 +3,6 @@ title: FAQ
 tags: whitepaper-section
 order: 15
 headings:
-  - FAQ
   - >-
     All transactions are visible on the blockchain How can I keep my transaction
     history private

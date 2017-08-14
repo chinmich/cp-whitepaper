@@ -3,7 +3,6 @@ title: Why CP
 tags: whitepaper-section
 order: 4
 headings:
-  - Why CP
   - Security
   - Ease
   - Scale

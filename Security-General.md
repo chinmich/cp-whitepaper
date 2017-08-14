@@ -3,7 +3,6 @@ title: Security General
 tags: whitepaper-section
 order: 14
 headings:
-  - Security General
 date: 2017-08-14 15:44:33
 ---
 

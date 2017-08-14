@@ -3,8 +3,6 @@ title: Marketing Plan
 tags: whitepaper-section
 order: 7
 headings:
-  - Marketing Plan
-  - image alt text image 4 png
 date: 2017-08-14 15:44:40
 ---
 

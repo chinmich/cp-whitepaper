@@ -3,7 +3,6 @@ title: Friend in Debt Our First Demonstration of the Credit Protocol
 tags: whitepaper-section
 order: 8
 headings:
-  - Friend in Debt Our First Demonstration of the Credit Protocol
   - Like Venmo on the Blockchain but Better
   - More than a Wallet Creating and Settling Social Debts
   - Unified Login Across Devices
