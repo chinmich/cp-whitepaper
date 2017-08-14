@@ -64,7 +64,7 @@ At BlockMason, we are dedicated to providing outstanding customer support for th
 
 ## FoundationIDs
 
-On July 7th, BlockMason released our innovative Foundation protocol for free. We developed Foundation to solve the problem of multiple wallet integration. We believe Foundation provides a solution to obstacles encountered by numerous application developers, and integration with Foundation is vital to the success of the Credit Protocol.
+On July 1st, BlockMason released our innovative Foundation protocol for free. LUKE https://blockmason.io/blog/2017/07/01/introducing_foundation/ We developed Foundation to solve the problem of multiple wallet integration. We believe Foundation provides a solution to obstacles encountered by numerous application developers, and integration with Foundation is vital to the success of the Credit Protocol.
 
 FoundationIDs create a single Master ID from multiple Ethereum public addresses, establishing a unified identity and transactional platform for individuals on the Ethereum Network. Users with FoundationIDs may easily sign into multiple DApps with one login credential (similar to how most web apps allow for sign in by Facebook or Google accounts) without the need for users to pass private keys back and forth. FoundationIDs will initially be free for all users of the CP. As previously discussed, this integration will improve user experience and lower the technical barrier to entry.
 
