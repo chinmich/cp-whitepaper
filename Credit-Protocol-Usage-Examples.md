@@ -72,5 +72,8 @@ Friend in Debt is our first full-fledged (__and functional!__) implementation of
 Or, to jump straight into the economic revolution, explore Friend in Debt here: [fiddy.io](http://fiddy.io)
 
 *[IOU]: I owe you. A document acknowledging a debt.
+*[CP]: Credit Protocol
+*[UCAC]: Use Case Authority Contract
+*[ICO]: Initial Coin Offering
 
 [^1]: PLEASE NOTE: Some applications built upon CP may be subject to regulation in some jurisdictions.  Developers building upon CP are responsible for determining which apps are subject to regulation and for complying as appropriate.

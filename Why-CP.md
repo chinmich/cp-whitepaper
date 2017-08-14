@@ -43,3 +43,7 @@ Finally, at BlockMason, we are no entomophobics—we do not fear bugs; we destro
 ## Urgency
 
 The movement of debt and credit on the blockchain is vital to the growth of our ecosystem, and BlockMason has developed a protocol that works __right now__. Don’t wait around for a half-baked solution promised years down the line. We have already deployed a working version of CP, and we invite all prospective users to explore the code.
+
+*[CP]: Credit Protocol
+*[UCAC]: Use Case Authority Contract
+*[ICO]: Initial Coin Offering
