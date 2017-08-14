@@ -2,7 +2,7 @@
 title: Marketing Plan
 tags: whitepaper-section
 order: 7
-headings:
+headings: []
 date: 2017-08-14 15:44:40
 ---
 

@@ -2,7 +2,7 @@
 title: Conclusion
 tags: whitepaper-section
 order: 17
-headings:
+headings: []
 date: 2017-08-14 15:44:30
 ---
 

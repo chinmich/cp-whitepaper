@@ -2,7 +2,7 @@
 title: CP and FiD Roadmap
 tags: whitepaper-section
 order: 13
-headings:
+headings: []
 date: 2017-08-14 15:44:34
 ---
 
