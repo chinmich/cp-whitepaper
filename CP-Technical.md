@@ -36,7 +36,7 @@ Foundation’s interface facilitates a clean and easy ID creation process. All t
 
 This unified FoundationID is required to use the Credit Protocol. It allows users to maintain one identity with the ability to access the CP from any device and any DApp browser.
 
-**Foundation Manager screenshots.**
+**Foundation Manager screenshots.** LUKE
 
 ## Credit Protocol Data Smart Contract
 
