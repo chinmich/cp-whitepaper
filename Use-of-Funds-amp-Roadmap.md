@@ -35,6 +35,14 @@ The following list outlines the allocation of proceeds towards specific uses. Th
 
 * Customer Support (20%):  Includes documentation, smart contract maintenance, examples, demo apps, front-end hook-in instruction, email and chat support;
 
+## Marketing Plan
+
+While we would like to believe that the Ethereum community is an equitable meritocracy, in which the most powerful, useful applications soar to success, we know that developing software is only part of building a successful product. Application marketing is an essential task for any company, if not even more important than the product itself. Cofounders Timothy Galebach and Jared Bowie are both vastly experienced experts on tech marketing and community engagement, having worked within the industry for numerous years. Their in-depth knowledge from running multimillion dollar pay-per-click app installation campaigns influences our plans to transform Friend in Debt from a random blockchain application to a program that achieves mainstream popularity and lives atop app store popularity lists.
+
+Both Tim and Jared have developed their own proprietary software for advertisement tracking and optimization. Even more importantly, through their many years working in the online advertisement space, they have developed an extensive network of professional connections to facilitate the most efficient marketing campaign. This may include large-scale ad buys, affiliates to encourage application installation, or contracted freelancers for banner and landing page designs.
+
+![billboard](/cp-whitepaper/images/image_4.png)
+
 *[CP]: Credit Protocol
 *[UCAC]: Use Case Authority Contract
 *[ICO]: Initial Coin Offering
