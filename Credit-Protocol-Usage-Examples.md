@@ -15,7 +15,7 @@ date: 2017-08-14 15:44:44
 
 # Credit Protocol Usage Examples:
 
-The simplest way to imagine the Credit Protocol is as a mechanism for the creation, tracking, and settlement of IOUs. At a basic level, IOUs are no different than currency. The earliest forms of cash were little more than standardized IOUs for some amount of precious metal, such as gold or silver, or a commodity like stored grain. *Therefore, by allowing individual users to create and manipulate customized IOUs, CP effectively democratizes the digital issuance of currency.*
+The simplest way to imagine the Credit Protocol is as a mechanism for the creation, tracking, and settlement of IOUs. At a basic level, IOUs are no different than currency. The earliest forms of cash were little more than standardized IOUs for some amount of precious metal, such as gold or silver, or a commodity like stored grain. **Therefore, by allowing individual users to create and manipulate customized IOUs, CP effectively democratizes the digital issuance of currency.**
 
 > Therefore, by allowing individual users to create and manipulate customized IOUs, CP effectively democratizes the digital issuance of currency.
 
