@@ -100,3 +100,4 @@ Furthermore, BlockMason is developing strategies for embedding Ethereum wallets 
 *[CP]: Credit Protocol
 *[UCAC]: Use Case Authority Contract
 *[ICO]: Initial Coin Offering
+*[DApp]: Decentralized Application

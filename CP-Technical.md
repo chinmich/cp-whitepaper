@@ -101,3 +101,4 @@ One powerful feature of building applications atop the Ethereum blockchain is it
 *[CP]: Credit Protocol
 *[UCAC]: Use Case Authority Contract
 *[ICO]: Initial Coin Offering
+*[DApp]: Decentralized Application

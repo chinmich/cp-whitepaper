@@ -13,4 +13,4 @@ While we would like to believe that the Ethereum community is an equitable merit
 
 Both Tim and Jared have developed their own proprietary software for advertisement tracking and optimization. Even more importantly, through their many years working in the online advertisement space, they have developed an extensive network of professional connections to facilitate the most efficient marketing campaign. This may include large-scale ad buys, affiliates to encourage application installation, or contracted freelancers for banner and landing page designs.
 
-## ![image alt text](/cp-whitepaper/images/image_4.png)
+![billboard](/cp-whitepaper/images/image_4.png)

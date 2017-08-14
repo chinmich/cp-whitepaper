@@ -15,9 +15,9 @@ date: 2017-08-14 15:44:37
 
 ## Credit Protocol Smart Contracts
 
-The Credit Protocol smart contracts form the base contracts on which FiD runs.  FiD is more or less an unrestricted UCAC running on top of the CP.  Ergo, all of the above descriptions of the mechanisms behind the CP, apply to FiD.  
+The Credit Protocol smart contracts form the base contracts on which FiD runs.  FiD is more or less an unrestricted UCAC running on top of the CP.  Ergo, all of the above descriptions of the mechanisms behind the CP, apply to FiD.
 
-Foundation forms the core of user interaction with FiD.  This means that in order to use FiD you will need to have a FoundationID.  These are easy to create through the Foundation Manager UI and currently free.  
+Foundation forms the core of user interaction with FiD.  This means that in order to use FiD you will need to have a FoundationID.  These are easy to create through the Foundation Manager UI and currently free.
 
 ## Friend in Debt Use Case Authority Contract
 
@@ -27,7 +27,7 @@ The FiD UCAC will allow any CP Token Holder to stake their tokens and bid for ho
 
 ## Market Handler
 
-The Friend in Debt UCAC implements a smart bidding system, allowing CP Token stakers to bid for supporting FiD user transactions.  In practice, CP token stakers will bid a specific amount of ETH that they’d like to charge for the transaction.  The lowest bid (cheapest for FiD users) will win, if that bid has transaction capacity remaining.  
+The Friend in Debt UCAC implements a smart bidding system, allowing CP Token stakers to bid for supporting FiD user transactions.  In practice, CP token stakers will bid a specific amount of ETH that they’d like to charge for the transaction.  The lowest bid (cheapest for FiD users) will win, if that bid has transaction capacity remaining.
 
 Initially Blockmason will be staking a portion of tokens set aside for FiD transactions, making those transactions free.  In the future, BlockMason will evaluate whether to continue this practice, use fewer CPT tokens, or raise the price of these transactions.
 
@@ -37,6 +37,6 @@ The front end for Friend In Debt is written using Purescript. Purescript is a st
 
 The front end allows for users to easily interact with smart contract functionality without requiring the technical expertise of being able to use raw smart contract functions. It also serves to display data in an easy to view user friendly manner.
 
-LUKE FRONT END PICS
+TODO: FRONT END PICS
 
 For more information on the front end, why not try it out?  Friend in Debt beta is already available for a test drive. Please find the appropriate links on our website at [http://friendindebt.com](http://friendindebt.com)

@@ -47,3 +47,4 @@ The movement of debt and credit on the blockchain is vital to the growth of our 
 *[CP]: Credit Protocol
 *[UCAC]: Use Case Authority Contract
 *[ICO]: Initial Coin Offering
+*[DApp]: Decentralized Application
