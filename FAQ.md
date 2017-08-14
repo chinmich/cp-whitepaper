@@ -31,7 +31,7 @@ We will employ either the Raiden Network or our own in-house off-chain solution 
 
 #### *Isn’t the Ethereum Network Slow?*
 
-One of the Ethereum Foundation’s major goals is to is to massively increase network speed and scalability. In the future, it is not unlikely that Ethereum will easily handle tens of thousands, or even millions, of transactions per second directly on-chain or off through networks like Raiden. In the meantime, Ethereum’s future POS system has been reported to be mining blocks at a rate of one per three seconds. Raiden, and other forthcoming off-chain solutions, promise much faster speeds. Between network scaling, Plasma, and the development of off-chain transaction options, the Ethereum Network will likely see a dramatic increase in transaction speed, a critical step for any dapp with a large user base.
+One of the Ethereum Foundation’s major goals is to is to massively increase network speed and scalability. In the future, it is not unlikely that Ethereum will easily handle tens of thousands, or even millions, of transactions per second directly on-chain or off through networks like Raiden. In the meantime, Ethereum’s future POS system has been reported to be mining blocks at a rate of one per three seconds. Raiden, and other forthcoming off-chain solutions, promise much faster speeds. Between network scaling, Plasma, and the development of off-chain transaction options, the Ethereum Network will likely see a dramatic increase in transaction speed, a critical step for any DApp with a large user base.
 
 #### What Happens on CP and FiD If a User’s Address is Hacked?
 

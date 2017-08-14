@@ -28,13 +28,13 @@ date: 2017-08-14 15:44:42
 
 *And for building on top of the Foundation Protocol, view our*: [Foundation Technical Documentation](http://blockmason.io/projects/foundation/documentation/)
 
-BlockMason created Foundation after experimenting with an earlier, unreleased version of the Credit Protocol. During the development process, we encountered a number of technical issues related to identity and wallet integration that no current application on the Ethereum network could solve. How would you proceed, for instance, if one wanted to access a CP backed dapp on your desktop instead of on your phone? Would you need to unsecurely email yourself your private Ethereum key? Should you try to type it into another wallet to import it? If you decided to use a new Ethereum address with the CP, how could you integrate that new address into the application?
+BlockMason created Foundation after experimenting with an earlier, unreleased version of the Credit Protocol. During the development process, we encountered a number of technical issues related to identity and wallet integration that no current application on the Ethereum network could solve. How would you proceed, for instance, if one wanted to access a CP backed DApp on your desktop instead of on your phone? Would you need to unsecurely email yourself your private Ethereum key? Should you try to type it into another wallet to import it? If you decided to use a new Ethereum address with the CP, how could you integrate that new address into the application?
 
 Through endless coding, sleepless nights, and extensive trial and error, we realized that we required a unifying mechanism to link Ethereum addresses on one’s phone and desktop. From the ashes of our earliest CP development, Foundation rose like a phoenix—a phoenix whose primary purpose is to allow all of your addresses to identify as __you__.
 
 Foundation’s interface facilitates a clean and easy ID creation process. All that is required is an Ethereum address not currently associated with another Foundation ID. It’s that simple. Once a user has created a FoundationID, he or she may then choose to add any other addresses he or she currently owns from an address already associated with the Foundation ID, via the Foundation smart contract.
 
-This unified FoundationID is required to use the Credit Protocol. It allows users to maintain one identity with the ability to access the CP from any device and any dapp browser.
+This unified FoundationID is required to use the Credit Protocol. It allows users to maintain one identity with the ability to access the CP from any device and any DApp browser.
 
 **Foundation Manager screenshots.**
 
@@ -72,9 +72,9 @@ A UCAC’s reason for returning true or false answers are limitless.  Their only
 
 ## Multiple Users and Bidding
 
-Multiple users can stake CP tokens for the same UCAC, if allowed.  If a dapp is sufficiently popular, hundreds or thousands of users may stake CP tokens to help support its transactions.
+Multiple users can stake CP tokens for the same UCAC, if allowed.  If a DApp is sufficiently popular, hundreds or thousands of users may stake CP tokens to help support its transactions.
 
-A UCAC may also be written to allow CP token holders to compete for transactions through that UCAC. For example, two users may stake their tokens for the same UCAC, offering their allotted transactions to users of the UCAC at two different prices. The dapp can then evaluate which bid is least expensive, and offer the price to the user before sending the CP transaction through that pathway.
+A UCAC may also be written to allow CP token holders to compete for transactions through that UCAC. For example, two users may stake their tokens for the same UCAC, offering their allotted transactions to users of the UCAC at two different prices. The DApp can then evaluate which bid is least expensive, and offer the price to the user before sending the CP transaction through that pathway.
 
 ## Staking Smart Contract
 

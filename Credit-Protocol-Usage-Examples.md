@@ -47,7 +47,7 @@ Because gift card usage is generally very similar between vendors, one can imagi
 
 ## Consumer Loans
 
-While securing a consumer loan currently requires wading through significant red tape and bureaucratic infrastructure, the Credit Protocol could vastly simplify the process of acquiring such a loan. Because blockchain ledgers are both public and secure, users could employ dapps to track their debts exactly, facilitate debt repayment through third party organizations, and be absolutely certain that payment has been received, avoiding any of the numerous scams or problems plaguing those operating in the debting world.
+While securing a consumer loan currently requires wading through significant red tape and bureaucratic infrastructure, the Credit Protocol could vastly simplify the process of acquiring such a loan. Because blockchain ledgers are both public and secure, users could employ DApps to track their debts exactly, facilitate debt repayment through third party organizations, and be absolutely certain that payment has been received, avoiding any of the numerous scams or problems plaguing those operating in the debting world.
 
 Such a system could also make use of the underlying debt data stored in the Credit Protocol to evaluate individual borrower’s credit and debt repayment history. A UCAC could further verify a borrower’s claims against information associated with that user’s FoundationID to determine their legitimacy.
 

@@ -29,4 +29,4 @@ A Developers’ Token Pool equal to 20% of the total token supply will be set as
 
 ## Friend in Debt
 
-10% of CP Tokens will be set aside and used to support the transactions of Friend in Debt and any other demo dapps that BlockMason develops with the CP.
+10% of CP Tokens will be set aside and used to support the transactions of Friend in Debt and any other demo DApps that BlockMason develops with the CP.

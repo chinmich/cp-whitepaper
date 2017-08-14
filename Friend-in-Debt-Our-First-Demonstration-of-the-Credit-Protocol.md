@@ -50,9 +50,9 @@ BlockMason launches Friend in Debt with an eye toward future development as well
 
 Because Friend in Debt allows users to carry and net debts over long periods of time, with periodic or on-demand settling of debt balance through ETH, it is essential that users have the most possible flexibility in determining how to send and receive payments.
 
-Unlike typical Ethereum dapps, FiD employs the BlockMason Foundation protocol (see Foundation Whitepaper here: [http://blockmason.io/foundation_whitepaper.pdf](http://blockmason.io/foundation_whitepaper.pdf)), which unifies login and identity credentials across multiple devices and platforms (iOS, Android, and Web). Our Foundation protocol frees users from the difficulties of switching between multiple devices and platforms or passing private keys from one wallet to another, essential components of our plan to enhance user interface and increase widespread adoption.
+Unlike typical Ethereum DApps, FiD employs the BlockMason Foundation protocol (see Foundation Whitepaper here: [http://blockmason.io/foundation_whitepaper.pdf](http://blockmason.io/foundation_whitepaper.pdf)), which unifies login and identity credentials across multiple devices and platforms (iOS, Android, and Web). Our Foundation protocol frees users from the difficulties of switching between multiple devices and platforms or passing private keys from one wallet to another, essential components of our plan to enhance user interface and increase widespread adoption.
 
-By lowering the technical barrier to entry for users, we improve user experience and ultimately increase demand for the FiD dapp. Even more importantly, incorporating the Foundation protocol allows FiD** **to** **potentially add new users easily with a temporary Eth address—such users can later migrate to other wallets while retaining their FiD account.
+By lowering the technical barrier to entry for users, we improve user experience and ultimately increase demand for the FiD DApp. Even more importantly, incorporating the Foundation protocol allows FiD** **to** **potentially add new users easily with a temporary Eth address—such users can later migrate to other wallets while retaining their FiD account.
 
 ## Lowering the Technical Barrier
 
@@ -76,7 +76,7 @@ With FiD, no user will have to worry about their account being locked for purpos
 
 ## Friend In Debt Beta
 
-The current version of Friend in Debt is already fully functional. While this iteration offers only a stripped-down, demo of the application’s future capabilities, FiD beta demonstrates BlockMason’s commitment to developing our dapp with vigor and efficiency. We refuse to blindly roll out an ICO, asking for ether on the strength of a Whitepaper and a promise. We have a product we believe in, and over the course of the ICO we will continue to release important updates that expand FiD’s functionality.
+The current version of Friend in Debt is already fully functional. While this iteration offers only a stripped-down, demo of the application’s future capabilities, FiD beta demonstrates BlockMason’s commitment to developing our DApp with vigor and efficiency. We refuse to blindly roll out an ICO, asking for ether on the strength of a Whitepaper and a promise. We have a product we believe in, and over the course of the ICO we will continue to release important updates that expand FiD’s functionality.
 
 Right now, FiD maintains a friend list and allows for the addition, confirmation, and clearance of debts. All transactions are processed on the Ropsten testnet, allowing users with access to testnet Ethereum to interact with the app completely free. The beta version runs in Chrome and requires Metamask. [http://fiddy.io](http://fiddy.io)
 

@@ -68,7 +68,7 @@ Detailed documentation on using CP including UCAC examples, deployment guide and
   <tr>
     <td>2018 Q2</td>
     <td>VERSION 3 GOES INTO ALPHA, DESKTOP APPS RELEASED.
-Desktop Apps Released. Version 3 which includes a general purpose Dapp Browser goes into Alpha. Interest Bearing Loans Smart Contracts released on TestNet.
+Desktop Apps Released. Version 3 which includes a general purpose DApp Browser goes into Alpha. Interest Bearing Loans Smart Contracts released on TestNet.
 </td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ Detailed documentation on using CP including UCAC examples, deployment guide and
 
 2018 Q4</td>
     <td>VERSION 3 RELEASED
-Version 3 released to public. This includes a general purpose Dapp browser for mobile, interest bearing loans, and massively reduced transaction costs thanks to off-chain state channels.
+Version 3 released to public. This includes a general purpose DApp browser for mobile, interest bearing loans, and massively reduced transaction costs thanks to off-chain state channels.
 </td>
   </tr>
   <tr>
