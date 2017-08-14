@@ -25,7 +25,7 @@ Until now, it was only possible to move money on the blockchain in the form of c
 
 ![image alt text](/cp-whitepaper/images/image_0.png)
 
-However, there is no better proof of a team’s vision and execution than its product. At BlockMason, we have never set much store by empty promises or flashy Whitepapers. Yes, we are extremely proud of the work our team has put forth to create this document, but we are even more proud of our developers, who have already deployed a fully-functional beta version of our newest application, Friend In Debt, demonstrating the functionality of the Credit Protocol. This awesome, simple dapp is available for public testing *right now*. Go ahead, check it out at [http://fiddy.io](http://fiddy.io), we’ll wait...
+However, there is no better proof of a team’s vision and execution than its product. At BlockMason, we have never set much store by empty promises or flashy Whitepapers. Yes, we are extremely proud of the work our team has put forth to create this document, but we are even more proud of our developers, who have already deployed a fully-functional beta version of our newest application, Friend In Debt, demonstrating the functionality of the Credit Protocol. This awesome, simple dapp is available for public testing *right now*. Go ahead, check it out at [fiddy.io](http://fiddy.io), we’ll wait...
 
 Oh, you’re back.
 
