@@ -18,6 +18,8 @@ date: 2017-08-14 15:44:43
 
 Debting is an inevitable evolution in the blockchain ecosystem, and will grow only more prominent as individuals begin using Ethereum and other cryptocurrencies to finance the development of large-scale infrastructure. While individual solutions to handling digital debt will have inevitable insecurities, the Credit Protocol will be battle-tested and reliable. By employing the Credit Protocol, companies and individuals eliminate the need for backend engineers. All that is necessary is to design a Use Case Authority Contract and a front-end interface, with no need to worry about the security of your debts, credits, or assets.
 
+> By employing the Credit Protocol, companies and individuals eliminate the need for backend engineers. All that is necessary is to design a Use Case Authority Contract and a front-end interface, with no need to worry about the security of your debts, credits, or assets.
+
 ## Ease
 
 As the Credit Protocol develops its user base, the ease of creating contracts for CP will further increase as the community develops solutions to common problems and plans for common projects. Soon, there will exist template UCACs to address everyday financial issues faced by organizations large and small. In fact, we imagine an ecosystem similar to that of Web Page templates, in which a prospective user may search through potentially millions of different UCAC options, both free and paid.
@@ -25,6 +27,8 @@ As the Credit Protocol develops its user base, the ease of creating contracts fo
 ## Scale
 
 While Bitcoin has created an entirely new economic ecosystem through its system of digital credits, the potential of crypto-economies is limited if they do not expand beyond the movement of currency. One of the most powerful factors in economic growth is debt and credit. The development of virtually all large-scale projects and infrastructure—bridges, factories, homes, technological innovations—are powered by debt. In fact, the federal government of the United States, the largest economy of the world, would collapse overnight without the power to borrow and lend money. The ability to issue debt is a necessity for any significant growth in the digital economy.
+
+> The ability to issue debt is a necessity for any significant growth in the digital economy.
 
 Additionally, it is worth noting that because recording one ETH of debt does not require owning one ETH, the total amount of debts and credits recorded on the Credit Protocol could soon exceed the total market capitalization of all cryptocurrencies combined. By opening CP to developers, we intend to maximize the speed of development, penetration, and usage of this democratized instrument for money creation.
 
@@ -38,4 +42,4 @@ Finally, at BlockMason, we are no entomophobics—we do not fear bugs; we destro
 
 ## Urgency
 
-The movement of debt and credit on the blockchain is vital to the growth of our ecosystem, and BlockMason has developed a protocol that works *right now*. Don’t wait around for a half-baked solution promised years down the line. We have already deployed a working version of CP, and we invite all prospective users to explore the code.
+The movement of debt and credit on the blockchain is vital to the growth of our ecosystem, and BlockMason has developed a protocol that works __right now__. Don’t wait around for a half-baked solution promised years down the line. We have already deployed a working version of CP, and we invite all prospective users to explore the code.
