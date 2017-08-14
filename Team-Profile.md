@@ -34,3 +34,13 @@ Michael graduated from Washington University in St. Louis magna cum laude with m
 ## Luke Zhang (Lead Developer)
 
 Luke is an experienced developer and designer, whose previous accomplishments include building an automated advertising tool that handles millions of dollars in spending. He also co-programmed a globe-spanning system to track product components across the supply chain, processing over $400 billion annually. Educated in Canada and China, Luke has been an avid user and fan of Blockchain technology since 2011, and he has enjoyed the rollercoaster ride of the technology’s evolution ever since. Luke recently dedicated his life to fully developing applications on top of the Ethereum network, under penalty of death.
+
+# Consultants** **
+
+## Jesse Nee-Vogelman (Content Master)
+
+Jesse, the voice of his generation, graduated from Harvard University in 2013 with a degree in Slavic Languages and Literatures. He has spent the last two years as the Artist in Residence of Harvard’s Signet Society of Arts and Letters, completing a novel. Previously, he worked as a freelance writer and writing consultant in South Korea and the United States. His fiction has been published in The New Haven Review and The Harvard Advocate, for which he won the Louis Begley Prize. His music reviews and features have appeared on Pretty Much Amazing, Slant Magazine, Spectrum Culture, and The Daily Distiller. He enjoys both cats and dogs. 
+
+## Teddy Ninh (Original Art)
+
+Teddy Ninh is a young artist with a gleam in his eyes from the moisturizing eye drops he always uses. He is currently studying at Harvard College, where he is the Art Director for the Harvard Lampoon, where he gets mediocre grades, and where he is barely a student.
