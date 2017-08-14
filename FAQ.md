@@ -43,7 +43,7 @@ Unfortunately, hacking is a reality of the current underdeveloped Ethereum ecosy
 
 * Settlement of debts is a manual process, which starts from a single address. This address and it’s Ethereum are secure and separate from any Foundation account. It is a normal Ethereum address.
 
-The use of the Foundation protocol, however, does pose one unique security problem, which BlockMason is currently researching.  If one address associated with a FoundationID is hacked, then the entire ID is vulnerable. Therefore, associated a greater number of addresses with the FoundationID leads to a greater number of access points for hackers. We are currently working to address this issue, and will provide a solution launching an applications on the mainnet.
+The Foundation protocol smart contracts separate data from logic and security. As we audit the security we can update it without losing user's underlying data.  Foundation is important and to get out the security exposure it needs we'll have to deploy consumer apps.
 
 #### What Happens with Remaining Tokens Not Purchased Through the Token Offering?
 
