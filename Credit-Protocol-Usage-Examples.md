@@ -17,17 +17,19 @@ date: 2017-08-14 15:44:44
 
 The simplest way to imagine the Credit Protocol is as a mechanism for the creation, tracking, and settlement of IOUs. At a basic level, IOUs are no different than currency. The earliest forms of cash were little more than standardized IOUs for some amount of precious metal, such as gold or silver, or a commodity like stored grain. *Therefore, by allowing individual users to create and manipulate customized IOUs, CP effectively democratizes the digital issuance of currency.*
 
-Off the blockchain, there already exist a massive range of use cases for IOUs—they exist between vendors and buyers in the form of accounts receivable, retailers and consumers in the form of gift cards, or airlines and flyers in the form of miles. Sometimes, these IOUs are denominated in a fiat currency issued by a government; other times, the IOUs exist only as an arbitrary currency designed by its issuer. Either type of IOU has value, so long as the two parties trust that one party may redeem the currency for something else of agreed upon worth. CP is the foundational tool that enables this massive range of use cases, available to and developable by anyone owning our product-use tokens. (NOTE:  PLEASE NOTE:  Some applications built upon CP may be subject to regulation in some jurisdictions.  Developers building upon CP are responsible for determining which apps are subject to regulation and for complying as appropriate.)
+> Therefore, by allowing individual users to create and manipulate customized IOUs, CP effectively democratizes the digital issuance of currency.
 
-We envision a vast and diverse array of applications to be built atop BlockMason’s Credit Protocol, with tremendously varied functionality. Below, we examine just a few usage examples for the Credit Protocol—the first targets for our Bounty Program (see explanation below)—as well as our first exciting CP-based application: *Friend in Debt*.
+Off the blockchain, there already exist a massive range of use cases for IOUs—they exist between vendors and buyers in the form of accounts receivable, retailers and consumers in the form of gift cards, or airlines and flyers in the form of miles. Sometimes, these IOUs are denominated in a fiat currency issued by a government; other times, the IOUs exist only as an arbitrary currency designed by its issuer. Either type of IOU has value, so long as the two parties trust that one party may redeem the currency for something else of agreed upon worth. CP is the foundational tool that enables this massive range of use cases, available to and developable by anyone owning our product-use tokens.[^1]
 
-We invite everyone interested in the Credit Protocol to check out our code at [https://github.com/blockmason](https://github.com/blockmason).  
+We envision a vast and diverse array of applications to be built atop BlockMason’s Credit Protocol, with tremendously varied functionality. Below, we examine just a few usage examples for the Credit Protocol—the first targets for our Bounty Program (see explanation below)—as well as our first exciting CP-based application: __Friend in Debt__ ([Try It Now](http://fiddy.io)).
+
+We invite everyone interested in the Credit Protocol to check out our code at [our github repository](https://github.com/blockmason).
 
 ## University Meal Vouchers
 
 Imagine a school wants to implement a meal plan for its students. First, the school purchases sufficient CP tokens to cover the amount of transactions they expect to occur within the system. Then, the school whitelists students’ FoundationIDs, preventing anyone other than a university student from executing transactions through the UCAC. The UCAC is designed to only allow transactions between the school and students, preventing students from trading tokens between each other on any sort of underground market. The Meal Voucher system uses its allotted free CP transfers (proportional to the number of CP tokens purchased by the school) to allow students to settle debts without cost on the CP network. Students then pay for a meal plan, let’s say $300 a month. Students pay the school in cash or digital currency, and the school sends the student 60 meal tokens. Each time the students visit the cafeteria, they tap their phone to machine that records their purchase, spending one meal token to buy their food. The school’s UCAC allows *only* these types of transactions to be settled between specific on-campus food venues and students of the school.
 
-![image alt text](/cp-whitepaper/images/image_2.png)
+![School voucher checkout system](/cp-whitepaper/images/image_2.png)
 
 ## Microfinancing
 
@@ -55,14 +57,20 @@ Get a suspicious phone call claiming you’re behind on your car payments? Hang 
 
 Airline miles and vendor loyalty points are yet another form of debt that exists between the airline or vendor and their customers. Airlines issues miles in the form of their own currency (e.g. debt) as a reward for fliers based on their patronage. Users then settle the debt by claiming a product or service based on the point system established by the airline or vendor.
 
-This vendor loyalty system highlights a particularly interesting property of the Credit Protocol: debts need not be recorded as fiat currency, such as USD, or cryptocurrency, such as ETH. Users may write UCACs to accept arbitrary values and currencies so long as a) they map redemption values to redemption methods, and b) the customer base values the newly generated currency, such as airline miles or credit card points.
+This vendor loyalty system highlights a particularly interesting property of the Credit Protocol: debts need not be recorded as fiat currency, such as USD, or cryptocurrency, such as ETH. Users may write UCACs to accept arbitrary values and currencies so long as:
+  1. they map redemption values to redemption methods
+  2. the customer base values the newly generated currency, such as airline miles or credit card points.
 
-![image alt text](/cp-whitepaper/images/image_3.png)
+![air miles received](/cp-whitepaper/images/image_3.png)
 
 ## Friend In Debt
 
 Here, we’ve saved the best for last.
 
-Friend in Debt is our first full-fledged (and functional!) implementation of the Credit Protocol, a social tool for users to track and issue debts amongst friends, family members, and individuals in their community. Its potential applications and use cases are vast and powerful, and we look forward to presenting Friend in Debt in further detail later in this Whitepaper.
+Friend in Debt is our first full-fledged (__and functional!__) implementation of the Credit Protocol, a social tool for users to track and issue debts amongst friends, family members, and individuals in their community. Its potential applications and use cases are vast and powerful, and we look forward to presenting Friend in Debt in further detail later in this Whitepaper.
 
-Or, to jump straight into the economic revolution, explore Friend in Debt here: **[http://fiddy.i**o](http://fiddy.io)
+Or, to jump straight into the economic revolution, explore Friend in Debt here: [fiddy.io](http://fiddy.io)
+
+*[IOU]: I owe you. A document acknowledging a debt.
+
+[^1]: PLEASE NOTE: Some applications built upon CP may be subject to regulation in some jurisdictions.  Developers building upon CP are responsible for determining which apps are subject to regulation and for complying as appropriate.
