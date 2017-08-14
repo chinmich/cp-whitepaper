@@ -9,7 +9,7 @@ date: 2017-08-14 15:44:35
 
 # Use of Funds & Roadmap
 
-BlockMason has developed a specific, concrete plan for the use and allocation of revenue from the ICO. Depending on the total amount of CPT purchased, we will execute our development plan in the manner described below. Our support and maintenance plan includes not only important documentation and customer support, but also porting of FiD to other operating systems and UCAC development for customers use in various implementations of the CP.  We will continue to update and advance FiD as an open source example of how to implement the CP. We would like to reiterate that BlockMason has already released a working beta version of CP & FiD, which we invite everyone to test while considering their participation in our ICO. [http://fiddy.io/](http://fiddy.io/)
+BlockMason has developed a specific, concrete plan for the use and allocation of revenue from the ICO. Depending on the total amount of CPT purchased, we will execute our development plan in the manner described below. Our support and maintenance plan includes not only important documentation and customer support, but also porting of FiD to other operating systems and UCAC development for customers use in various implementations of the CP.  We will continue to update and advance FiD as an open source example of how to implement the CP. We would like to reiterate that BlockMason has already released a [working beta](http://fiddy.io/) version of CP & FiD, which we invite everyone to test while considering their participation in our ICO.
 
 * 2,250,000 CPT Sold - Working full version Chrome Metamask FiD app and working Mobile Web App. 1 UCAC smart contract will be developed in house and released free to CPT customers.  CP support docs, deployment guides, UCAC construction examples and deployment instructions available in proportion to the number of CPT sold.  (If we do not sell a minimum 2,250,000 CPT, as shown above, the CP ICO smart contract will automatically return all Ethereum back to the Ethereum addresses from which it came);
 
@@ -34,3 +34,9 @@ The following list outlines the allocation of proceeds towards specific uses. Th
 * Bounty Pool (5%): A security bug bounty program similar to those run by leading tech companies.  In order to find critical security bugs before they adversely affect our customer base.  Includes funds for UCAC developer bounties.
 
 * Customer Support (20%):  Includes documentation, smart contract maintenance, examples, demo apps, front-end hook-in instruction, email and chat support;
+
+*[CP]: Credit Protocol
+*[UCAC]: Use Case Authority Contract
+*[ICO]: Initial Coin Offering
+*[DApp]: Decentralized Application
+*[FiD]: Friend in Debt
