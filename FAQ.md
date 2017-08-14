@@ -43,7 +43,7 @@ Unfortunately, hacking is a reality of the current underdeveloped Ethereum ecosy
 
 * Settlement of debts is a manual process, which starts from a single address. This address and it’s Ethereum are secure and separate from any Foundation account. It is a normal Ethereum address.
 
-The Foundation protocol smart contracts separate data from logic and security. As we audit the security we can update it without losing user's underlying data.  Foundation is important and to get out the security exposure it needs we'll have to deploy consumer apps.
+The Foundation protocol smart contracts separate data from logic. As we audit the security, we can update Foundation without losing a user's underlying data.  Foundation is a necessary component of the CP, and we look forward to community auditing of the open source code to continue improving its security. 
 
 #### What Happens with Remaining Tokens Not Purchased Through the Token Offering?
 
