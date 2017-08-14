@@ -21,13 +21,13 @@ date: 2017-08-14 15:44:34
 | 2018 Q1 | GENERAL PURPOSE SETTLEMENTS GOES LIVE. | General Purpose Settlements will be deployed to MainNet. |
 | 2018 Q1 | DESKTOP APPS GOES INTO BETA, MOBILE APPS RELEASED. | Desktop Apps Betas released for public testing, Android and iOS Apps in respective stores. |
 | 2018 Q1 | IMPROVED DEVELOPER DOCS AND MORE UCACS AVAILABLE | Detailed documentation on using CP including UCAC examples, deployment guide and basic solidity guide.  5 fully functional UCACs available. |
-| 2018 Q2 | VERSION 3 GOES INTO ALPHA, DESKTOP APPS RELEASED. | Desktop Apps Released. Version 3 which includes a general purpose Dapp Browser goes into Alpha. Interest Bearing Loans Smart Contracts released on TestNet. |
+| 2018 Q2 | VERSION 3 GOES INTO ALPHA, DESKTOP APPS RELEASED. | Desktop Apps Released. Version 3 goes into Alpha. Interest Bearing Loans Smart Contracts released on TestNet. |
 | 2018 Q2 | VERSION 3 GOES INTO BETA, LOAN CONTRACTS DEPLOY TO MAINNET. | Version 3 released to the public for Beta Testing. Interest Bearing Loan contracts deployed to MainNet. |
 | 2018 Q2 | IMPROVED DEVELOPER DOCS AND MORE UCACS AVAILABLE | Detailed documentation on using CP including UCAC examples, deployment guide and basic solidity guide.  7 fully functional UCACs. available. |
 | 2018 Q3 | INTEREST BEARING LOANS WRITTEN INTO FID | Interest bearing loan function written into FiD. |
 | 2018 Q3 | OFF-CHAIN STATE CHANNELS GOES INTO ALPHA | Our in-house transaction aggregation and caching layer goes into Alpha Testing. |
 | 2018 Q3 | IMPROVED DEVELOPER DOCS AND MORE UCACS AVAILABLE | Detailed documentation on using CP including UCAC examples, deployment guide and basic solidity guide.  10 fully functional UCACs. |
-| 2018 Q4 | VERSION 3 RELEASED. Version 3 released to public | This includes a general purpose Dapp browser for mobile, interest bearing loans, and massively reduced transaction costs thanks to off-chain state channels. |
+| 2018 Q4 | VERSION 3 RELEASED. Version 3 released to public | This includes interest bearing loans and massively reduced transaction costs thanks to off-chain state channels. |
 | 2018 Q4 | IMPROVED DEVELOPER DOCS AND MORE UCACS AVAILABLE | Detailed documentation on using CP including UCAC examples, deployment guide and basic solidity guide.  15 fully functional UCACs. |
 
 *[CP]: Credit Protocol
