@@ -1,5 +1,5 @@
 ---
-title: Security General
+title: Security
 tags: whitepaper-section
 order: 14
 headings: []
@@ -22,3 +22,10 @@ Writing code for Ethereum is a new and complex endeavor. Because of its novelty,
 * Employ ENS addresses, make available ICO contracts prior to the ICO, and establish clear and secure communication channels.
 
 These steps comprise only the beginnings of our final security plan. BlockMason is committed to constantly researching and evaluating threats faced by other DApp companies, and to adjust our security measures accordingly. We have invested a tremendous amount of time, energy (and *love*) into CP and FiD, and we would be personally devastated at the emergence of any serious security issue. Our reputation, and your trust, is on the line—therefore, we approach issues of security with the maximum level of consideration and caution.
+
+*[CP]: Credit Protocol
+*[UCAC]: Use Case Authority Contract
+*[ICO]: Initial Coin Offering
+*[DApp]: Decentralized Application
+*[FiD]: Friend in Debt
+*[ENS]: Ethereum Name Service
